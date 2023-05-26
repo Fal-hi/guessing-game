@@ -1,0 +1,10 @@
+Guessing Game:
+1. Level permainannya terdiri dari easy, normal, hard, extreme
+2. Jika level 
+- easy => memiliki 7 nyawa
+- normal => memiliki 5 nyawa
+- hard => memiliki 3 nyawa
+- extreme => memiliki 2 nyawa, jumpscare muka seram saat permainan berakhir beserta suaranya, latar berdarah/bewarna merah,
+dan saat memilih level extreme, maka akan muncul pop up dengan pesan 
+"Are you sure?, this level has explicit content."
+3. Category permainannya terdiri dari nama negara, binatang, buah
