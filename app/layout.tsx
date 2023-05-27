@@ -4,8 +4,11 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Guessing Game App',
+  title: 'Guessing Game',
   description: 'This is a guessing game app creating by Syaifal Illahi',
+  icons: {
+    icon: "/f.png",
+  }
 }
 
 export default function RootLayout({
